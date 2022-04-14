@@ -1,6 +1,7 @@
 Java.perform(function() {
 
 /*
+для андройд
 hook list:
 1.SSLcontext
 2.okhttp
